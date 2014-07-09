@@ -214,7 +214,7 @@ a:visited { color: #205caa; }
 
 .post-content blockquote {
   border-left: 4px solid #e8e8e8;
-  padding-left: 20px;
+  /*  padding-left: 20px;*/
   font-size: 18px;
   opacity: .6;
   letter-spacing: -1px;
@@ -240,12 +240,26 @@ a:visited { color: #205caa; }
 .post code { padding: 1px 5px; }
 
 .post ul,
-.post ol { margin-left: 1.35em; }
+/*.post ol { margin-left: 1.35em; }*/
 
 .post pre code {
   border: 0;
   padding-right: 0;
   padding-left: 0;
+}
+
+
+/* Blog styles */
+/*________________________________________________*/
+.date-blog { margin-left: 20px; }
+.excerpt-blog { margin-top: 20px; }
+
+/* Blog styles */
+/*________________________________________________*/
+.landing {
+  font-weight: 300px;
+  font-size: 170%;
+  font-family: "Open Sans",sans-serif;
 }
 
 /* terminal */

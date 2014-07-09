@@ -1,13 +1,18 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Raimon Lapuente
+email: r.lapuente@gmail.com
+description: "Description"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://raimonlapuente.com"
+twitter_username: wolffan
+github_username:  wolffan
 
 # Build settings
 markdown: kramdown
-permalink: prettyi
+permalink: none
+highlighter: pygments
+timezone: Europe/London
+encoding: utf-8
 pygments: true
+paginate: 10
+paginate_path: "blog/page:num"

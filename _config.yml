@@ -16,3 +16,6 @@ encoding: utf-8
 pygments: true
 paginate: 10
 paginate_path: "blog/page:num"
+
+#external urls
+lyst_web: http://lyst.com

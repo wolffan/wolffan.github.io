@@ -262,13 +262,29 @@ a:visited { color: #795548; }
   font-weight: 300;
   font-size: 170%;
   font-family: "Open Sans",sans-serif;
-  padding-top: 180px;
+  padding-top: 130px;
   zoom: 1;
   line-height: 1.8;
 }
 
 .highlight {
   font-weight:400;
+}
+
+p.center {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.avatar-image {
+  border-radius:50%;
+  display: block;
+  height: 100px;
+  width: 100px;
+  border: 4px solid #64dd17;
+  background: no-repeat scroll 25% 32%;
+  margin: 0 auto;
 }
 
 /* terminal */

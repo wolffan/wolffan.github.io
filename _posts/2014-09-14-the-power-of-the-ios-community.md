@@ -5,8 +5,6 @@ date:   2014-09-14
 categories: iOS London NSLondon Community Developers
 ---
 
-###The beginning
-
 More than a year ago I decided to move to London. It was mostly a professional decision.
 I realised that not all good developers where american, hardly. There was a huge amount of people from the UK working and doing great things for iOS.
 Even before setting foot in London, going to <a href="http://www.iosdevuk.com/">iOSDevUk 2013</a> was a priority for me. It was not a mistake, I met amazing people and learned.

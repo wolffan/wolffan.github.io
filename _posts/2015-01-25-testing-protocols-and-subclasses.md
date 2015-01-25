@@ -30,9 +30,7 @@ If we write our classes on a way that we could reuse the most common patterns (l
 
 My idea was as crazy as detect all classes that implemented a protocol and run the same tests agains them. Which goes against the basics of testing, but it was a way for me to generate "new tests" when a new implementation of a Protocol was created, therefore ensure some minimum quality.
 
-My colleague was unsure about it, therefore I tweeted the most trusty person I know on tests, <a href="https://twitter.com/qcoding">Jon Reid</a>, and he was kind enough to tweet back.
-
-{% tweet https://twitter.com/qcoding/status/558699636479623168 align='right' width='350' %}
+My colleague was unsure about it, therefore I tweeted the most trusty person I know on tests, <a href="https://twitter.com/qcoding">Jon Reid</a>, and he was kind enough to <a href="https://twitter.com/qcoding/status/558699636479623168">tweet back</a>.
 
 ###Conclusions and experiments
 

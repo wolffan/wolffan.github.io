@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hands on @3x assets"
+title:  "Testing Protocols through test subclassing"
 date:   2015-01-25
 categories: iOS testing repository data protocols architecture
 ---

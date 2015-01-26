@@ -9,7 +9,7 @@ Last Friday I was developing a new screen on Lyst (try the app if you haven't ye
 The screen was not new, rather a new endpoint with very similar data to the old one.
 Nothing fancy, new ViewController and new Repository.
 
-We use an architecture based on Repositories, they handle the data and the network fetching for the each screen, and then they become the natural Data Source. <a href="https://twitter.com/Chilvman">Tim Chilvers</a> explains them in his <a href="http://vimeopro.com/user20904333/nslondon/video/98274951">NSLondon talk</> very well.
+We use an architecture based on Repositories, they handle the data and the network fetching for the each screen, and then they become the natural Data Source. <a href="https://twitter.com/Chilvman">Tim Chilvers</a> explains them in his <a href="http://vimeopro.com/user20904333/nslondon/video/98274951">NSLondon talk</a> very well.
 
 ###Repositories and Protocols
 

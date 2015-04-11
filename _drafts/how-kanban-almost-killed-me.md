@@ -19,7 +19,7 @@ What this really meant for me, was: bigger stories to manage, more responsibilit
 
 > With great power comes great responsability. ***Uncle Ben***
 
-({{ site.url }}/assets/spiderman.png)
+<img src="{{ site.url }}/assets/spiderman.png"/>
 
 ### What does Kanban mean ?
 

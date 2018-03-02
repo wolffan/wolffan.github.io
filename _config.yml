@@ -1,7 +1,7 @@
 # Site settings
 title: Raimon Lapuente
 email: sayhi@raimonlapuente.com
-description: "Description"
+description: "Raimon's professional website. Some blogs and contact information. All about iOS and some crypto and blockchain"
 baseurl: ""
 url: "http://raimonlapuente.com"
 twitter_username: wolffan
@@ -10,10 +10,9 @@ github_username:  wolffan
 # Build settings
 markdown: kramdown
 permalink: none
-highlighter: pygments
+highlighter: rouge
 timezone: Europe/London
 encoding: utf-8
-pygments: true
 paginate: 10
 paginate_path: "blog/page:num"
 
